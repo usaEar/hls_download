@@ -1,1 +1,1 @@
-# hls_download
+pip install requests pycryptodome m3u8
